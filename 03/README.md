@@ -14,31 +14,17 @@ Example:
 
 const g1 = drawGift(4, '*')
 console.log(g1)
-/*
- ****
- *  *
- *  *
- ****
- */
+
 
 const g2 = drawGift(3, '#')
 console.log(g2)
-/*
-###
-# #
-###
-*/
 
 const g3 = drawGift(2, '-')
 console.log(g3)
-/*
---
---
-*/
 
 const g4 = drawGift(1, '+')
 console.log(g4)
-// ""  poor intern…
+
 
 📁 Estructura de soluciones 📁 
 Para este ejercicio he incluido dos archivos diferentes, cada uno representando una etapa distinta del proceso de resolución:
